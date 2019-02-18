@@ -6,3 +6,4 @@ More details in the [user manual](https://rodzill4.github.io/godot-procedural-te
 
 ![Screenshot](addons/material_maker/doc/images/screenshot.png)
 
+ВУИМУИ
